@@ -26,7 +26,7 @@ try {
     $mail->Host       = 'smtp.gmail.com';
     $mail->SMTPAuth   = true;
     $mail->Username   = 'praisemichael20@gmail.com';
-    $mail->Password   = 'meinxeykcyhxwgah';
+    $mail->Password   = '';
     $mail->Port       = 587;
 
     //Recipients
